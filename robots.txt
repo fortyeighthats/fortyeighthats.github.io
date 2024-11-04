@@ -1,0 +1,3 @@
+User-agent:*
+Allow:/
+Sitemap:https://fortyeighthats.github.io/sitemap.xml
